@@ -8,7 +8,7 @@ Access the web application here: [Weather Classification App](https://weather-pr
 
 The source code for the web application is in this repository: [Web Application Repository](https://github.com/PcrPz/Weather-Prediction)
 
-# Member
+# 👥 Member
 - 65010627 ปัณณทัต โรจน์เอกจิตต์
 - 65010662 พงศพัศ วงศ์สวัสดิ์
 - 65010671 พชรพล เอี่ยมสงคราม 
