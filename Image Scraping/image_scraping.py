@@ -10,7 +10,7 @@ import urllib
 PATH = "PATH TO YOUR CHROMEDRIVER"
 service = Service(PATH)
 
-querys = ["foggy view", "foggy wheather", "foggy mountain"]
+querys = ["foggy view", "foggy weather", "foggy mountain"]
 file_name = "foggy"
 
 for i, query in enumerate(querys):
